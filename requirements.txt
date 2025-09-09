@@ -1,0 +1,6 @@
+PySide6>=6.6.0
+opencv-python>=4.8.0
+numpy>=1.25.0
+Pillow>=10.0.0
+pyautogui>=0.9.54
+pytesseract>=0.3.10 
