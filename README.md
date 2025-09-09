@@ -1,6 +1,7 @@
 # XDDQ Auto
 
 现代化 GUI 脚本工具，用于自动完成“福地采集”等操作。基于 PySide6 + OpenCV + PyAutoGUI + Tesseract OCR。
+<img width="1738" height="1300" alt="main" src="https://github.com/user-attachments/assets/8d598585-9ffd-4e2d-83aa-742a9f463200" />
 
 ## 功能特性
 - 现代化拟态风格 GUI，窗口可调整大小
